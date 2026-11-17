@@ -1,5 +1,5 @@
 <div align="center">
-<img src="portfolio-assets/cover.svg" width="100%" alt="Smart Hospital Bed project cover">
+<img src="https://raw.githubusercontent.com/Ace-Alch/Ace-Alch.github.io/main/banners/smart-hospital-bed.webp" width="100%" alt="smart-hospital-bed — project concept artwork">
 
 # Smart Hospital Bed
 
